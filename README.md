@@ -3,8 +3,8 @@ This project is a Streamlit web application that generates random, meaningful he
 ## Live Demo
 Check out the live demo of the app here (if deployed).
 ## Screenshots
-App Screenshot
-![Alt Text](path/to/your/image.png)
+
+![Alt Text](app_ss.png)
 ## Features
 ✨ Pre-trained Model: Use a Markov chain model to generate headlines instantly.  
 ✨ Custom Training: Upload your own text data (e.g., news articles, blog posts) to train a new model.  
