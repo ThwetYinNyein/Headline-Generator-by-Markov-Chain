@@ -1,1 +1,4 @@
 markovify
+networkx
+matplotlib
+pandas
